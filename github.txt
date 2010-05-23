@@ -3,4 +3,5 @@ Getting started with github
 1. Sign up fora free open source account on github.com
 2. Configure your ssh access
 3. Create a repository on github
-4. Create a local repository and push it to github
+4. Create a local repository
+5. Create a remote in your local repository that points to the github repository that you want to push to
